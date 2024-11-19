@@ -50,8 +50,8 @@ Memory Deallocation
 
 ## PROGRAM:
 ```
-Name : ALFRED A B
-Reg No: 212222110002
+Name :Mohamed Fareed F
+Reg No: 212222230082
 ```
 ```py
 %%cuda
